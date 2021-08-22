@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satheesh Ramasamy from Coimbatore,Tamil Nadu , INDIA
-- 👀 I’m interested in Coding,..Programming... and Providing best solution with good performance and reuability
+- 👀 I’m interested in Coding,..Programming... and Providing best solution with good performance and reusability
 - 🌱 I’m currently learning Python,
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @rsatheeshnkl@gmail.com , +91 9972717476
